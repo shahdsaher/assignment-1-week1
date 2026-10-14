@@ -1,0 +1,228 @@
+.box {
+    background-color: #e7e9f1;
+}
+/* header-fisrt */
+.header {
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: #18487b;
+    width:80%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    padding-top: 30PX;
+}
+.header h1 {
+    color: white;
+    font-size:40px;
+    font-family: "revert-laye";
+}
+.header h2 {
+    color:#6992c7;
+    margin-bottom: 40px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 10px; 
+}
+.header .nav a {
+    color:white;
+    border-radius: 28px;
+    border: 1px solid whitesmoke;
+    padding: 3px ;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-right: 8px;
+    margin-left: 8px ;
+    padding:10px 15px;
+    background-color: #2a5685
+}
+/* header-end */
+/* about-start */
+#about {
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color:white;
+    width: 80%;
+    margin: auto;
+    border-radius:20px;
+}
+#about .about-container img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding: 30px;
+}
+#about h2 {
+    color: #0f3e73;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddeeff;
+}
+#about .about-container {
+    width: 33.333%;
+    float: left;
+}
+.clear {
+    clear: both;
+}
+#about .about-container p {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 17px;
+
+    padding-right: 30px;
+}
+#about .about-container .mark {
+    color: #18487b;
+}
+#about .about-container a {
+    color: white;
+    background-color:#184372 ;
+    border: 1px #184372 solid;
+    border-radius: 12px;
+    padding: 20 24 18;
+    text-decoration: none;
+}
+
+/* about-end */
+/* skills-start */
+#skills {
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+}
+#skills .skills-container .content{
+    width:25%;
+    float: left;
+    border: 1px solid #ddeeff ;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-bottom: 80px;
+    background-color: #f9fcff;
+    /* padding-left: 20px; */
+}
+.clear {
+    clear:both;
+}
+#skills h2 {
+    color: #0f3e73;
+     padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddeeff;
+}
+#skills p {
+    padding-left:20px ;
+    
+}
+#skills .skills-container h3 {
+    text-align: start;
+    padding-left:20px;
+    color: #2a5685;
+}
+/* experience-start */
+#experience , .experience2 {
+    background-color: rgb(240, 244, 248);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    border-left-color: #4079b6;
+    border-left-style: solid;
+    border-left-width: 4px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#experience .fisrt-con , .experience2 .second-con{
+    width:25%; 
+    float: left;
+}
+#experience .fisrt-con img ,.experience2 .second-con img{
+    width: 100px;
+    border: 1px solid #6992c7;
+    border-radius: 10px; 
+}
+
+#experience h2 {
+    color: #0f3e73;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddeeff;
+}
+#experience .include .first-con h4 ,.experience2 .include .second-con h4 
+{ 
+   color:#2a5685
+}
+#experience .pr , .experience2 .pr {
+    font-size: 14px;
+    padding-bottom: 40px;
+}
+.experience2 {
+    padding-top: 30px;
+}
+/* experience-end-fisrt */
+
+.parent2 {
+    width: 80%;
+    padding-left: 60px;
+    padding-right: 60px;
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid whitesmoke;
+    margin-top: 20px;
+}
+#contact {
+    background-color: #0f3e73;
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid whitesmoke;
+    margin-top: 20px;
+    padding-left:60px;
+    padding-right: 60px;
+    padding-bottom: 40px;
+}
+#contact h2 {
+    color: white;
+    padding:10px 10px 20px 3px;
+   
+    border-bottom-style:solid ;
+    border-bottom-width: 1px;
+    border-bottom-color: #3c5e82; 
+}
+#contact p {
+    color: white;
+    padding-bottom: 20px;
+}
+#contact .links a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    padding: 10px 20px ;
+    margin-left: 5px;
+    background-color: #2a5685;
+}
+.last {
+    width:80%;
+    background-color:#071a35 ;
+    margin: auto;
+     border-radius: 20px;
+    border: 1px solid whitesmoke;
+    color:white;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.last .mblue {
+    color: #3782d1;  
+}
